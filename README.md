@@ -1,37 +1,46 @@
 <div align="center">
 
-### Sanjay Sharma  
-**Data Analyst · Data Science · Streamlit**
+<h2>Sanjay Sharma</h2>
+<b>Data Analyst · Data Science · Streamlit Developer</b>
 
-Building modern data applications and dashboards that turn data into decisions.
+<p>Building modern data products that convert data into decisions</p>
 
-[LinkedIn](https://linkedin.com/in/Sanjay20057) ·
-[Email](mailto:workingwithsanjay@gmail.com)
+<a href="https://linkedin.com/in/Sanjay20057">LinkedIn</a> ·
+<a href="mailto:workingwithsanjay@gmail.com">Email</a>
 
 </div>
 
 ---
 
-## ✨ Overview
+## 🪪 Profile Snapshot
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
-**What I do**
-- Data analysis & visualization
-- Interactive dashboards (Streamlit)
-- Machine learning & modeling
-- Statistical analysis & reporting
+### 🧠 Focus
+- Data Analysis  
+- Machine Learning  
+- Interactive Dashboards  
+- Statistical Modeling  
 
 </td>
-<td width="50%">
+<td width="33%">
 
-**How I work**
-- Clean, reproducible code
-- Insight-first analytics
-- Scalable data apps
-- Real-world datasets
+### 🛠 Strengths
+- Clean & scalable code  
+- Insight-driven analytics  
+- Real-world datasets  
+- End-to-end projects  
+
+</td>
+<td width="33%">
+
+### 🚀 Tools
+- Python, R  
+- Pandas, NumPy  
+- Streamlit, SQL  
+- scikit-learn  
 
 </td>
 </tr>
@@ -39,60 +48,62 @@ Building modern data applications and dashboards that turn data into decisions.
 
 ---
 
-## 🧠 Tech Stack
+## 🧱 Tech Stack (UI Grid)
 
 <table>
 <tr>
-<td><b>Programming</b><br/>Python · R</td>
-<td><b>Data</b><br/>Pandas · NumPy · SQL</td>
-<td><b>ML</b><br/>scikit-learn</td>
+<td align="center"><b>Programming</b><br/>Python · R</td>
+<td align="center"><b>Data</b><br/>Pandas · NumPy · SQL</td>
+<td align="center"><b>ML</b><br/>scikit-learn</td>
 </tr>
 <tr>
-<td><b>Visualization</b><br/>Matplotlib · Plotly</td>
-<td><b>Databases</b><br/>MySQL · SQL Server</td>
-<td><b>Deployment</b><br/>Streamlit · Render · Heroku</td>
+<td align="center"><b>Visualization</b><br/>Matplotlib · Plotly</td>
+<td align="center"><b>Databases</b><br/>MySQL · SQL Server</td>
+<td align="center"><b>Deployment</b><br/>Streamlit · Render · Heroku</td>
 </tr>
 </table>
 
 ---
 
-## 🧩 Featured Projects
+## 📦 Featured Projects (UI Cards)
 
 <table>
 <tr>
+
 <td width="50%">
 
-**Cyber Threat Detection Suite**  
-ML-based cyber threat classification system with a Streamlit interface.
+### 🔐 Cyber Threat Detection Suite
+<b>Machine Learning · NLP · Streamlit</b>
 
-• Text & URL threat detection  
-• Feature engineering & modeling  
-• Real-time dashboard  
+• Threat classification (Phishing, Malware, DDoS)  
+• Feature engineering & ML pipelines  
+• Interactive real-time dashboard  
 
-🔗 [GitHub](https://github.com/Sanjay20057/Cyber-Threat-Detection-Suite)  
-🌐 [Live App](https://cyber-threat-detection-suite.streamlit.app/)
+🔗 <a href="https://github.com/Sanjay20057/Cyber-Threat-Detection-Suite">GitHub</a>  
+🌐 <a href="https://cyber-threat-detection-suite.streamlit.app/">Live App</a>
 
 </td>
 
 <td width="50%">
 
-**Car Price Prediction**  
-Regression-based ML system for estimating used car prices.
+### 🚗 Car Price Prediction
+<b>Regression · Feature Engineering</b>
 
-• Feature engineering  
-• Model evaluation  
-• Interactive prediction UI  
+• Data preprocessing & EDA  
+• Model evaluation & tuning  
+• User-friendly prediction UI  
 
-🔗 [GitHub](https://github.com/Sanjay20057/Car-Price-Prediction)  
-🌐 [Live App](https://car-price-prediction-2005.streamlit.app)
+🔗 <a href="https://github.com/Sanjay20057/Car-Price-Prediction">GitHub</a>  
+🌐 <a href="https://car-price-prediction-2005.streamlit.app/">Live App</a>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <div align="center">
 
@@ -104,7 +115,5 @@ Regression-based ML system for estimating used car prices.
 ---
 
 <div align="center">
-
-<sub>Focused on building high-quality data products with real impact.</sub>
-
+<sub>Designed like a product. Built with data.</sub>
 </div>
