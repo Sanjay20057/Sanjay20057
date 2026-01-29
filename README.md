@@ -1,86 +1,128 @@
-# 👋 Hi, I'm Sanjay Sharma  
-### 📊 Data Analyst | Data Science Enthusiast | Streamlit App Builder
+<div align="center">
 
-I specialize in **turning raw, messy data into clear, actionable insights** through interactive dashboards, machine learning models, and scalable data applications.
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:2193b0,100:6dd5ed&height=180&section=header&text=Sanjay%20Sharma&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 
----
+### 📊 Data Analyst | Data Science | Streamlit Developer  
+Turning raw data into **clear, actionable insights**
 
-## 💫 About Me
+<br/>
 
-🔹 Building **data analysis & interactive dashboards** using **Python & Streamlit**  
-🔹 Strong foundation in **data science, analytics, and visualization**  
-🔹 Experienced in **advanced data modeling, optimization & ML pipelines**  
-🔹 Passionate about **statistical analysis & data-driven decision making**  
-🔹 Love transforming complex datasets into **simple stories & insights** 📊  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanjay%20Sharma-blue?logo=linkedin)](https://linkedin.com/in/Sanjay20057)
+[![Email](https://img.shields.io/badge/Email-workingwithsanjay@gmail.com-red?logo=gmail)](mailto:workingwithsanjay@gmail.com)
 
-💡 *I enjoy solving real-world problems with data and presenting results in a way anyone can understand.*
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🧠 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sanjay20057)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:workingwithsanjay@gmail.com)
+<table>
+<tr>
+<td width="60%">
 
----
+🔹 Data analysis & interactive dashboards using **Python & Streamlit**  
+🔹 Strong foundation in **data science, analytics & visualization**  
+🔹 Hands-on with **machine learning & statistical modeling**  
+🔹 Experience building **scalable, real-world data apps**  
+🔹 Passionate about turning data into **stories & decisions** 📊  
 
-## 💻 Tech Stack
+</td>
+<td width="40%" align="center">
 
-### 🧠 Programming & Data
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220"/>
 
-### 📊 Data Analysis & Visualization
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
-### 🤖 Machine Learning
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-### 🚀 Deployment & Tools
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+## 🧩 Tech Stack UI
 
-![](https://github-readme-stats.vercel.app/api?username=Sanjay20057&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)
+<table>
+<tr>
+<td align="center"><b>Programming</b><br><br>
+<img src="https://skillicons.dev/icons?i=python,r" />
+</td>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Sanjay20057&theme=blue-green&hide_border=false)
+<td align="center"><b>Data & ML</b><br><br>
+<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" />
+</td>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay20057&theme=blue-green&hide_border=false&layout=compact)
+<td align="center"><b>Visualization</b><br><br>
+<img src="https://skillicons.dev/icons?i=matplotlib,plotly" />
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Databases</b><br><br>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</td>
+
+<td align="center"><b>Deployment</b><br><br>
+<img src="https://skillicons.dev/icons?i=streamlit,heroku" />
+</td>
+
+<td align="center"><b>Tools</b><br><br>
+<img src="https://skillicons.dev/icons?i=git,github" />
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 What I’m Working On
+## 🚀 Featured Work (UI Cards)
 
-✔️ End-to-end **data analytics & ML projects**  
-✔️ **Streamlit dashboards** for real-world use cases  
-✔️ Improving **model performance & feature engineering**  
-✔️ Writing clean, reusable, and production-ready code  
+<table>
+<tr>
+<td width="50%">
+
+### 📌 Cyber Threat Detection Suite  
+🧠 ML-based threat classification  
+📊 Streamlit dashboard  
+🔗 [GitHub Repo](https://github.com/Sanjay20057/Cyber-Threat-Detection-Suite)  
+🌐 [Live App](https://cyber-threat-detection-suite.streamlit.app/)
+
+</td>
+<td width="50%">
+
+### 📌 Car Price Prediction  
+🚗 Regression & feature engineering  
+📈 Interactive prediction UI  
+🔗 [GitHub Repo](https://github.com/Sanjay20057/Car-Price-Prediction)  
+🌐 [Live App](https://car-price-prediction-2005.streamlit.app)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📊 GitHub Performance
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sanjay20057&theme=blue-green&show_icons=true" width="48%"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Sanjay20057&theme=blue-green" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay20057&layout=compact&theme=blue-green" width="48%"/>
+
+</div>
 
 ---
 
-### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=Sanjay20057&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## ✍️ Dev Quote
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
 
 ---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:6dd5ed,100:2193b0&height=120&section=footer" />
 
 [![](https://visitcount.itsvg.in/api?id=Sanjay20057&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Profile optimized for recruiters & data roles -->
+</div>
