@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sanjay Sharma  
+# 👋 Hi, I'm Sanjay 
 ### 📊 Data Analyst | Data Science Enthusiast | Streamlit App Builder
 
 I specialize in **turning raw, messy data into clear, actionable insights** through interactive dashboards, machine learning models, and scalable data applications.
