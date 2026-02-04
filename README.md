@@ -77,7 +77,6 @@ I specialize in **turning raw, messy data into clear, actionable insights** thro
 ---
 
 ### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=Sanjay20057&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
