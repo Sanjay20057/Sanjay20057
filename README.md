@@ -119,11 +119,7 @@
   
 <table>
 <tr>
-<td width="50%" align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjay20057&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  
-</td>
+
 <td width="50%" align="center">
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay20057&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak" />
@@ -131,11 +127,6 @@
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay20057&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&layout=compact&langs_count=8" alt="Top Languages" />
-  
-</td>
 <td width="50%" align="center">
   
   <img src="https://github-contributor-stats.vercel.app/api?username=Sanjay20057&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&combine_all_yearly_contributions=true" alt="Contribution Stats" />
