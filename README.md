@@ -319,7 +319,6 @@ I'm building an **interactive portfolio** to showcase my data analysis projects,
 
 <br>
 
-![Visitor Count](https://profile-counter.glitch.me/Sanjay20057/count.svg)
 
 ---
 
