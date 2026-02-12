@@ -139,13 +139,6 @@
 
 <br>
 
-<div align="center">
-  
-### 🏆 GitHub Achievements
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Sanjay20057&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
-
-</div>
 
 <br>
 
